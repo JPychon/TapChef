@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/502157ef-8fd9-42d1-8b08-52bb39d542dc/resourceGroups/TapChefPromo/providers/Microsoft.Web/sites/TapChef",
+    "appService.deploySubpath": "."
+}
