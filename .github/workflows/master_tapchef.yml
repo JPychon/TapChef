@@ -52,5 +52,5 @@ jobs:
           app-name: 'TapChef'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CAABDFD760CD49B4954D3B209F999C99 }}
-          package: node-app
+          package: .
 
