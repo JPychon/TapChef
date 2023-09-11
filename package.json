@@ -22,7 +22,7 @@
     "@emotion/core": "^11.0.0"
   },
   "scripts": {
-    "start": "serve -s build -l tcp://0.0.0.0:$PORT",
+    "start": "serve -s build -l tcp://0.0.0.0:${PORT:-3000}",
     "build": "react-scripts build",
     "test": "react-scripts test --passWithNoTests",
     "eject": "react-scripts eject"
