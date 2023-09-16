@@ -146,7 +146,7 @@ export const AnimatedCircle = styled.div`
 `;
 
 export const InputGroup = styled.div`
-  marginBottom: 20px;
+  marginBottom: 35px;
   display: flex;
   align-items: center;
   flex-wrap: nowrap;
