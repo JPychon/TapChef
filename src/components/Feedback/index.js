@@ -14,4 +14,6 @@
  * limitations under the License.
  */
 
-import '@testing-library/jest-dom';
+export {
+    FeedbackModal
+} from './FeedbackModal';

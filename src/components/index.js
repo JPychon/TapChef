@@ -14,4 +14,10 @@
  * limitations under the License.
  */
 
-import '@testing-library/jest-dom';
+export {
+    ComingSoonPage
+} from './ComingSoonPage';
+
+export {
+    FeedbackModal
+} from './Feedback';
